@@ -1,6 +1,14 @@
 from typing import Optional, List
 
+<<<<<<< HEAD
 #Blueprint
+=======
+<<<<<<< HEAD
+
+=======
+#Blueprint
+>>>>>>> 5fede9b9ce9ceb1675702d016daba540b702d5c1
+>>>>>>> 16b4f29 (Python-Project 9)
 class Book:
     def __init__(self, title, author):
         self.title = title
